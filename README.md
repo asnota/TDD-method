@@ -5,9 +5,7 @@ This repository hosts the open-source code and performance statistics for the **
 **"Neuromorphic Data Transformations for Sustainable VR Art Applications"**  
 *Anna Shvets (University of Nottingham, UK)*  
 *Anthony Trzepizur (iMSA, France)*  
-Research paper was presented at International XR-Metaverse Conference (XRM) 2025 conference in Maastricht.
-
-SHVETS, A., TRZEPIZUR, A. (2025). “Neuromorphic Data Transformations for Sustainable VR Art Applications.” In: Springer Proceedings in Business and Economics (accepted for publication).
+This research paper was presented at the [**International XR-Metaverse Conference (XRM 2025)**](https://xr-metaverse.org/](https://www.xrm2025.com/) held in **Maastricht**.
 
 ## Overview
 
