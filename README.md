@@ -6,6 +6,7 @@ This repository hosts the open-source code and performance statistics for the **
 *Anna Shvets (University of Nottingham, UK)*  
 *Anthony Trzepizur (iMSA, France)*  
 Research paper was presented at International XR-Metaverse Conference (XRM) 2025 conference in Maastricht.
+
 SHVETS, A., TRZEPIZUR, A. (2025). “Neuromorphic Data Transformations for Sustainable VR Art Applications.” In: Springer Proceedings in Business and Economics (accepted for publication).
 
 ## Overview
